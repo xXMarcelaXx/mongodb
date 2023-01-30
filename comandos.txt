@@ -13,7 +13,7 @@ Comandos
 12. db."nombre de la coleccion".drop()
 13.db.<collection>.count({query})
 14. $push
-
+kk
 
 Descripcion
 1-Muestra todas las bases de datos
