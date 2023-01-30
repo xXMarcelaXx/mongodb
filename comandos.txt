@@ -2,6 +2,7 @@ Comandos
 1-show dbs
 2-use <nombre_bd>	Selecciona la base de datos
 3-collectionName.renameCollection(newCollectionName)
+ñ
 
 Descripcion
 1-Muestra todas las bases de datos
