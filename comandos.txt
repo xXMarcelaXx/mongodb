@@ -9,7 +9,8 @@ Comandos
 8-db.[coleccion].find().pretty();
 9- db.collectionName.insertOne({document})
 10- db.collectionName.insertMany({document})
-
+11-db.dropDatabase()
+12. db."nombre de la coleccion".drop()
 
 Descripcion
 1-Muestra todas las bases de datos
@@ -22,3 +23,5 @@ Descripcion
 8 buscar coleccion con formato acomodado
 9. insertar uno
 10. insertar muchos
+11. Eliminar base de datos.
+12. Eliminae collection.
