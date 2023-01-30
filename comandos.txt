@@ -5,6 +5,8 @@ Comandos
 4-db.collectionName.deleteOne({condition})
 5.db.createUser(userDocument)
 6.db.dropUser(username)
+7.db.[coleccion].find();
+8.db.[coleccion].find().pretty();
 
 
 Descripcion
@@ -14,3 +16,5 @@ Descripcion
 4-elimina el documento único que cumple los criterios de eliminación.
 5- Crear un usuario en un documento
 6- Eliminar un usuario
+7. buscar coleccion
+8 buscar coleccion con formato acomodado
