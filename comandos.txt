@@ -3,9 +3,14 @@ Comandos
 2-use <nombre_bd>	Selecciona la base de datos
 3-collectionName.renameCollection(newCollectionName)
 4-db.collectionName.deleteOne({condition})
+5.db.createUser(userDocument)
+6.db.dropUser(username)
+
 
 Descripcion
 1-Muestra todas las bases de datos
 2-Selecciona la base de datos
 3-Permite cambiar el nombre a una colección
 4-elimina el documento único que cumple los criterios de eliminación.
+5- Crear un usuario en un documento
+6- Eliminar un usuario
