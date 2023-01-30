@@ -1,0 +1,7 @@
+Comandos
+1-show dbs
+2-use <nombre_bd>	Selecciona la base de datos
+
+Descripcion
+1-Muestra todas las bases de datos
+2-Selecciona la base de datos
