@@ -11,6 +11,9 @@ Comandos
 10- db.collectionName.insertMany({document})
 11-db.dropDatabase()
 12. db."nombre de la coleccion".drop()
+13.db.<collection>.count({query})
+14. $push
+
 
 Descripcion
 1-Muestra todas las bases de datos
@@ -25,3 +28,6 @@ Descripcion
 10. insertar muchos
 11. Eliminar base de datos.
 12. Eliminae collection.
+
+13. Cuenta son mas
+14. Agrega valores a arreglo
