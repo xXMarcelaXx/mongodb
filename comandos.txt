@@ -3,10 +3,12 @@ Comandos
 2-use <nombre_bd>	Selecciona la base de datos
 3-collectionName.renameCollection(newCollectionName)
 4-db.collectionName.deleteOne({condition})
-5.db.createUser(userDocument)
-6.db.dropUser(username)
-7.db.[coleccion].find();
-8.db.[coleccion].find().pretty();
+5-db.createUser(userDocument)
+6-db.dropUser(username)
+7-db.[coleccion].find();
+8-db.[coleccion].find().pretty();
+9- db.collectionName.insertOne({document})
+10- db.collectionName.insertMany({document})
 
 
 Descripcion
@@ -18,3 +20,5 @@ Descripcion
 6- Eliminar un usuario
 7. buscar coleccion
 8 buscar coleccion con formato acomodado
+9. insertar uno
+10. insertar muchos
